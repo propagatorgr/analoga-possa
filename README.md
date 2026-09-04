@@ -117,7 +117,7 @@
 
 ***
 Πάτα στον παρακάτω σύνδεσμο για να δεις ερωτηματολόγιο για μαθητές Γυμνασίου:
-  <a href="https://app.lumi.education/run/tUB91v)" target="_blank" rel="noopener noreferrer"> Άνοιγμα δραστηριότητας Lumi</a>
+  <a href="https://app.lumi.education/run/tUB91v" target="_blank" rel="noopener noreferrer"> Άνοιγμα δραστηριότητας Lumi</a>
 Καλή εξερεύνηση! 🚀
 
 ***
